@@ -10,7 +10,7 @@ An alternative to TuJantaNahiMeraBaapKaunHai. Because who needs a lawyer?
 
 2. ```python main.py --question "What to do if signal pe police took meri gaadi ki chaabi?"```
 
-3. Get slapped because you thought a Github repo was the solution to your life's problems.
+3. Get laughed at lol.
 
 
 # Disclaimer
